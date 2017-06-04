@@ -2,6 +2,12 @@ html {
   text-align: center;
   font-family: Helvetica;
 }
-#header {
-  background-image: image(/resources/images/the-flatiron-building.png);
+#hero {
+  background-image: url("/resources/images/the-flatiron-building.png");
+  font-size:70px;
+  font-weight: bold;
+}
+#header{
+  font-size: 18px;
+  color: white;
 }
